@@ -1,0 +1,12 @@
+findspark
+requests
+pandas
+pyarrow
+google-cloud-storage
+sqlalchemy
+aiohttp
+apache-airflow
+google-cloud-bigquery
+pandas-gbq
+dbt-bigquery
+clickhouse-connect
